@@ -1,5 +1,5 @@
 # MultiplayerPong
-MultiplayerPong ( JS + Express + Socket.io)
+MultiplayerPong ( JS + NodeJs + Express + Socket.io)
 
 To try this game open a terminal and then in the project folder execute "node server"
 
